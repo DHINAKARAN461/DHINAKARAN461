@@ -9,7 +9,9 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<div align="right">
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="fun gif" />
+</div>
 
 ###
 
@@ -42,9 +44,10 @@ I'm a Java developer with a strong focus on back-end development and API design.
 
 ## 💻 Technical Skills
 - **Programming:** Java (OOP, Core Java), SQL (Basic queries, MySQL)
-- **Frameworks & Tools:** Spring Boot (RESTful API, Spring Data JPA, JDBC), Git & GitHub, Postman
+- **Frameworks & Tools:** Spring Boot, Spring Data JPA, JDBC, Spring MVC
+- **API Development:** RESTful API (Design & Testing using Postman)
 - **Database Management:** MySQL (Database design & optimization)
-- **Additional:** JDBC (Database connectivity), Data Structures (Arrays, Linked Lists, Trees)
+- **Version Control:** Git & GitHub
 
 ###
 
@@ -72,15 +75,15 @@ Developed a backend-focused **Book Management System** using:
 ###
 
 <div align="left">
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="s.dhinakaransubramani@gmail.com"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
 ###
 
 <br clear="both">
-<img src="https://raw.githubusercontent.com/DHINAKARAN461/DHINAKARAN461/output/dist/snake.svg" alt="Snake animation" />
 
+<img src="https://raw.githubusercontent.com/DHINAKARAN461/DHINAKARAN461/output/dist/snake.svg" alt="Snake animation" />
 
 ###
 
