@@ -57,7 +57,7 @@ Developed a backend-focused **Book Management System** using:
 - Designed and implemented **RESTful APIs** for book management
 - Used **Postman** for API testing & validation
 
-🔗 [GitHub Repository](#) *(Link to project if available)*
+🔗 [GitHub Repository](#)
 
 ###
 
@@ -70,6 +70,7 @@ Developed a backend-focused **Book Management System** using:
 
 ## 🌎 Languages
 - **English**
+- **Japanese**
 - **Tamil**
 
 ###
