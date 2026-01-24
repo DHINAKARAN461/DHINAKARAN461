@@ -13,9 +13,9 @@
 ## 👨‍💻 About Me
 
 I am a **Java Backend Developer** with a strong interest in building **secure, scalable, and well-structured REST APIs**.  
-I enjoy working on backend systems using **Spring Boot**, integrating databases, and designing clean API architectures.
+I enjoy working with **Spring Boot**, databases, and backend architectures to develop efficient server-side applications.
 
-I have hands-on experience developing backend applications and continuously improve my skills by building projects and exploring modern Java technologies.
+I continuously improve my skills by building backend projects and learning modern Java technologies.
 
 ---
 
@@ -36,7 +36,7 @@ Kamaraj Municipal Boys HR SEC School, Erode — *May 2021*
 ### 🧠 Programming & Core Concepts
 - Java (Core Java, OOP, Java 8 features)
 - Generics, Lambda Expressions
-- Data Structures (Arrays, Linked Lists, Trees – basics)
+- Basic Data Structures (Arrays, Linked Lists, Trees)
 
 ### ⚙️ Backend & Frameworks
 - Spring Boot
@@ -58,17 +58,7 @@ Kamaraj Municipal Boys HR SEC School, Erode — *May 2021*
 ### 🛠️ Tools & Platforms
 - Git & GitHub
 - Postman
-- IntelliJ / Eclipse (for Java development)
-
-### 🗄️ Database
-- MySQL
-- Database design
-- Basic query optimization
-
-### 🛠️ Tools & Platforms
-- Git & GitHub
-- Postman
-- IntelliJ / Eclipse (for Java development)
+- IntelliJ IDEA / Eclipse
 
 ---
 
@@ -82,31 +72,32 @@ A backend-focused application designed to manage books efficiently.
 - Developed using **Spring Boot, Spring Data JPA, JDBC, and MySQL**
 - Implemented complete **CRUD operations**
 - Designed clean and structured **RESTful APIs**
-- Tested endpoints using **Postman**
+- Tested APIs using **Postman**
 
-🔗 **Repository:** *()*
+🔗 **Repository:** https://github.com/DHINAKARAN461  
+*(Replace with the exact project repo link when available)*
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Spring Boot & Spring Security
+- Advanced Spring Boot
+- Spring Security (JWT basics)
 - Backend best practices
 - API security and optimization
-- Real-world backend system design
 
 ---
 
 ## 🤝 Soft Skills
-- Strong problem-solving and debugging ability
-- Good communication and teamwork
-- Continuous learner with adaptability to new technologies
+- Strong problem-solving and debugging skills
+- Effective communication and teamwork
+- Continuous learner with adaptability
 
 ---
 
 ## 🌐 Languages
 - English
-- Tamil
 - Japanese
+- Tamil
 
 ---
 
