@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhinakaran S</h1>
-<h3 align="center">Java Backend Developer | REST API & Spring Boot Enthusiast</h3>
+<h3 align="center">Java Fullstack Developer | Spring Boot & React.js Enthusiast</h3>
 
 <p align="center">
 📍 Erode, India <br/>
@@ -12,85 +12,59 @@
 
 ## 👨‍💻 About Me
 
-I am a **Java Backend Developer** with a strong interest in building **secure, scalable, and well-structured REST APIs**.  
-I enjoy working with **Spring Boot**, databases, and backend architectures to develop efficient server-side applications.
+I am a **Java Fullstack Developer** dedicated to building robust, end-to-end web applications. I specialize in creating seamless user experiences with **React.js** while ensuring high-performance server-side logic using **Spring Boot**.
 
-I continuously improve my skills by building backend projects and learning modern Java technologies.
+I enjoy bridging the gap between elegant frontend design and scalable backend architecture.
 
 ---
 
 ## 🎓 Education
 
-**Bachelor of Computer Applications (BCA)**  
-Sri Vasavi College (Self-Finance Wing), Erode — *Jul 2024*  
+**Bachelor of Computer Applications (BCA)** Sri Vasavi College (Self-Finance Wing), Erode — *Jul 2024*  
 **Score:** 86.08%
 
-**Higher Secondary (Arts & Computer Applications)**  
-Kamaraj Municipal Boys HR SEC School, Erode — *May 2021*  
+**Higher Secondary (Arts & Computer Applications)** Kamaraj Municipal Boys HR SEC School, Erode — *May 2021*  
 **Score:** 80%
 
 ---
 
 ## 💼 Technical Skills
 
-### 🧠 Programming & Core Concepts
-- Java (Core Java, OOP, Java 8 features)
-- Generics, Lambda Expressions
-- Basic Data Structures (Arrays, Linked Lists, Trees)
+### 🎨 Frontend Development
+- **Library:** React.js (Hooks, Component Lifecycle)
+- **Languages:** JavaScript (ES6+), HTML5, CSS3
+- **Styling:** Bootstrap
+- **API Handling:** Axios for asynchronous data fetching
 
 ### ⚙️ Backend & Frameworks
-- Spring Boot
-- Spring MVC
-- Spring Data JPA
-- JDBC
-- Spring Security (basic understanding)
+- **Frameworks:** Spring Boot, Spring MVC, Spring Data JPA
+- **Core:** Java (OOPs, Java 8+ Features, Lambda, Streams)
+- **Connectivity:** JDBC, RESTful API Design
 
-### 🌐 API Development
-- RESTful API design & development
-- API testing using Postman
-- JSON-based client-server communication
-
-### 🗄️ Database
-- MySQL
-- Database design
-- Basic query optimization
-
-### 🛠️ Tools & Platforms
-- Git & GitHub
-- Postman
-- IntelliJ IDEA / Eclipse
+### 🗄️ Database & Tools
+- **Database:** MySQL, Database Design
+- **Tools:** Git & GitHub, Postman, IntelliJ IDEA, VS Code
 
 ---
 
 ## 🚀 Projects
 
-### 📚 Book Management System (CRUD)
+### 👥 Employee Management System (Fullstack)
 
-A backend-focused application designed to manage books efficiently.
+A comprehensive application built to streamline workplace administration, featuring a dynamic frontend and a robust REST API.
 
 **Key Highlights:**
-- Developed using **Spring Boot, Spring Data JPA, JDBC, and MySQL**
-- Implemented complete **CRUD operations**
-- Designed clean and structured **RESTful APIs**
-- Tested APIs using **Postman**
+- **Frontend:** Built a responsive UI using **React.js** and **Bootstrap**.
+- **Backend:** Developed secure RESTful services using **Spring Boot** and **Spring Data JPA**.
+- **Data Integration:** Managed state and handled API requests using **Axios**.
+- **Database:** Designed a relational schema in **MySQL** for persistent employee records.
 
-🔗 **Repository:** https://github.com/DHINAKARAN461/EmployeeManagementSystem  
-*(Replace with the exact project repo link when available)*
+🔗 **Repository:** [https://github.com/DHINAKARAN461/EmployeeManagementSystem](https://github.com/DHINAKARAN461/EmployeeManagementSystem)
 
 ---
 
 ## 🌱 Currently Learning
-- Advanced Spring Boot
-- Spring Security (JWT basics)
-- Backend best practices
-- API security and optimization
-
----
-
-## 🤝 Soft Skills
-- Strong problem-solving and debugging skills
-- Effective communication and teamwork
-- Continuous learner with adaptability
+- Advanced Spring Security (JWT & OAuth2)
 
 ---
 
@@ -112,6 +86,6 @@ A backend-focused application designed to manage books efficiently.
 
 ## 📬 Let's Connect
 
-If you're looking for a **Java Backend Developer** or want to collaborate on backend projects, feel free to connect with me.
+If you're looking for a **Java Fullstack Developer** to join your team or want to collaborate on a project, let's chat!
 
-⭐ *Always open to learning, building, and improving.*
+⭐ *Constantly evolving, one commit at a time.*
