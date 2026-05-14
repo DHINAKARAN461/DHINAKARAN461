@@ -74,7 +74,7 @@ A backend-focused application designed to manage books efficiently.
 - Designed clean and structured **RESTful APIs**
 - Tested APIs using **Postman**
 
-🔗 **Repository:** https://github.com/DHINAKARAN461  
+🔗 **Repository:** https://github.com/DHINAKARAN461/EmployeeManagementSystem  
 *(Replace with the exact project repo link when available)*
 
 ---
