@@ -78,8 +78,8 @@ A comprehensive application built to streamline workplace administration, featur
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHINAKARAN461&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHINAKARAN461&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=DHINAKARAN461&show_icons=true&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=DHINAKARAN461&layout=compact&theme=dracula" height="150"/>
 </p>
 
 ---
